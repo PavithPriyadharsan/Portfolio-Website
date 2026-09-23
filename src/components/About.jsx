@@ -22,11 +22,11 @@ const About = () => {
         <br />
 
         <h3 className="text-xl underline underline-offset-4"><strong>Work Experience:</strong></h3>
-        <p className="text-lg"><strong>Company:</strong> Hawk Monk, a fintech startup</p>
-        <p className="text-lg"><strong>Position:</strong> Full stack developer</p>
-        <p className="text-lg"><strong>Time period:</strong> September 2023 - present (6 months)</p> <br />
+        <p className="text-lg"><strong>Company:</strong> LTM (formerly LTIMindtree)</p>
+        <p className="text-lg"><strong>Position:</strong> Software Engineer</p>
+        <p className="text-lg"><strong>Time period:</strong> August 2024 - present</p> <br />
         <p className="text-lg">
-          - Worked in designing and development of a trading & equity website, with technologies such as Figma (Designing), MERN stack and Svelte JS (design to deployment).<br />
+          - Worked in designing and development of .Net and Angular web applications, with technologies such as .Net Core, Angular and SQL Server.<br />
           {/* - Solved a vital issue by creating dynamic and stateless components in the web application. */}
         </p> 
       </div>

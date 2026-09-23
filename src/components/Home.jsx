@@ -24,9 +24,9 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-300 py-4 max-w-md">
-            I am passionate full stack web developer and UI/UX designer.
-            Currently, I love to work on web application using MERN stack
-            and designing user-friendly apps with Figma.
+            I am passionate full stack web developer.
+            Currently, I love to work on web application using .Net & Angular with SQL Server
+            and designing user-friendly web apps.
           </p>
         <div className="flex flex-row">
           <div>
