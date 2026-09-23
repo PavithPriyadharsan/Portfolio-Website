@@ -72,13 +72,13 @@ const Projects = () => {
           {portfolios.map(({ id, src, title, url, demo}) => (
             <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
               <h2 className="mb-2">{title}</h2>
-              <a href={url} target="_blank">
+              <a href={url} target="_blank" rel="noreferrer">
               <img
                 src={src}
                 alt=""
                 className="rounded-md duration-200 hover:scale-105"/></a>
               <div className="flex items-center justify-center">
-                <a href={demo} target="_blank" alt="code-demo"><button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
+                <a href={demo} target="_blank" rel="noreferrer" alt="code-demo"><button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                   Demo
                 </button></a>
               
